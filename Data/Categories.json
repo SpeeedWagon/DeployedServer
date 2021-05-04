@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Amd Motherboard",
+    "slug": "slug 1",
+    "image_icon_url": "https://c1.neweggimages.com/ProductImage/13-119-197-V02.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Case",
+    "slug": "slug 2",
+    "image_icon_url": "https://c1.neweggimages.com/ProductImage/11-139-142-01.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Cooling",
+    "slug": "slug 3",
+    "image_icon_url": "https://c1.neweggimages.com/ProductImage/35-103-277-V01.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Processor",
+    "slug": "slug 4",
+    "image_icon_url": "https://c1.neweggimages.com/ProductImage/19-118-233-V01.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Graphics Card",
+    "slug": "slug 5",
+    "image_icon_url": "https://c1.neweggimages.com/ProductImage/14-932-314-S03.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Hard Drive",
+    "slug": "slug 6",
+    "image_icon_url": "https://c1.neweggimages.com/ProductImage/22-179-003-10.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Intel Motherboard",
+    "slug": "slug 7",
+    "image_icon_url": "https://c1.neweggimages.com/ProductImage/13-119-367-V90.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Power Supply",
+    "slug": "slug 8",
+    "image_icon_url": "https://c1.neweggimages.com/ProductImage/17-139-201-V08.jpg"
+  },
+  {
+    "id": "9",
+    "name": "RAM",
+    "slug": "slug 9",
+    "image_icon_url": "https://c1.neweggimages.com/ProductImage/20-236-677-01.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Solid State Drive",
+    "slug": "slug 10",
+    "image_icon_url": "https://c1.neweggimages.com/ProductImage/20-250-135-01.jpg"
+  }
+]
