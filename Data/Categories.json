@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "Amd Motherboard",
+    "name": "AmdMotherboard",
     "slug": "slug 1",
     "image_icon_url": "https://c1.neweggimages.com/ProductImage/13-119-197-V02.jpg"
   },
@@ -25,25 +25,25 @@
   },
   {
     "id": "5",
-    "name": "Graphics Card",
+    "name": "GraphicsCard",
     "slug": "slug 5",
     "image_icon_url": "https://c1.neweggimages.com/ProductImage/14-932-314-S03.jpg"
   },
   {
     "id": "6",
-    "name": "Hard Drive",
+    "name": "HardDrive",
     "slug": "slug 6",
     "image_icon_url": "https://c1.neweggimages.com/ProductImage/22-179-003-10.jpg"
   },
   {
     "id": "7",
-    "name": "Intel Motherboard",
+    "name": "IntelMotherboard",
     "slug": "slug 7",
     "image_icon_url": "https://c1.neweggimages.com/ProductImage/13-119-367-V90.jpg"
   },
   {
     "id": "8",
-    "name": "Power Supply",
+    "name": "PowerSupply",
     "slug": "slug 8",
     "image_icon_url": "https://c1.neweggimages.com/ProductImage/17-139-201-V08.jpg"
   },
@@ -55,7 +55,7 @@
   },
   {
     "id": "10",
-    "name": "Solid State Drive",
+    "name": "SolidStateDrive",
     "slug": "slug 10",
     "image_icon_url": "https://c1.neweggimages.com/ProductImage/20-250-135-01.jpg"
   }
