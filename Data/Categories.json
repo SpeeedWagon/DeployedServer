@@ -3,60 +3,60 @@
     "id": "1",
     "name": "AmdMotherboard",
     "slug": "slug 1",
-    "image_icon_url": "https://c1.neweggimages.com/ProductImage/13-119-197-V02.jpg"
+    "image_icon_url": "/SVG/AMD.svg"
   },
   {
     "id": "2",
     "name": "Case",
     "slug": "slug 2",
-    "image_icon_url": "https://c1.neweggimages.com/ProductImage/11-139-142-01.jpg"
+    "image_icon_url": "/SVG/Case.svg"
   },
   {
     "id": "3",
     "name": "Cooling",
     "slug": "slug 3",
-    "image_icon_url": "https://c1.neweggimages.com/ProductImage/35-103-277-V01.jpg"
+    "image_icon_url": "/SVG/CpuCooler.svg"
   },
   {
     "id": "4",
     "name": "Processor",
     "slug": "slug 4",
-    "image_icon_url": "https://c1.neweggimages.com/ProductImage/19-118-233-V01.jpg"
+    "image_icon_url": "/SVG/Cpu.svg"
   },
   {
     "id": "5",
     "name": "GraphicsCard",
     "slug": "slug 5",
-    "image_icon_url": "https://c1.neweggimages.com/ProductImage/14-932-314-S03.jpg"
+    "image_icon_url": "/SVG/Gpu.svg"
   },
   {
     "id": "6",
     "name": "HardDrive",
     "slug": "slug 6",
-    "image_icon_url": "https://c1.neweggimages.com/ProductImage/22-179-003-10.jpg"
+    "image_icon_url": "/SVG/Storage.svg"
   },
   {
     "id": "7",
     "name": "IntelMotherboard",
     "slug": "slug 7",
-    "image_icon_url": "https://c1.neweggimages.com/ProductImage/13-119-367-V90.jpg"
+    "image_icon_url": "/SVG/intel-logo.svg"
   },
   {
     "id": "8",
     "name": "PowerSupply",
     "slug": "slug 8",
-    "image_icon_url": "https://c1.neweggimages.com/ProductImage/17-139-201-V08.jpg"
+    "image_icon_url": "/SVG/Psu.svg"
   },
   {
     "id": "9",
     "name": "RAM",
     "slug": "slug 9",
-    "image_icon_url": "https://c1.neweggimages.com/ProductImage/20-236-677-01.jpg"
+    "image_icon_url": "/SVG/Ram.svg"
   },
   {
     "id": "10",
     "name": "SolidStateDrive",
     "slug": "slug 10",
-    "image_icon_url": "https://c1.neweggimages.com/ProductImage/20-250-135-01.jpg"
+    "image_icon_url": "/SVG/Ssd.svg"
   }
 ]
